@@ -11,14 +11,20 @@ Apache와 Tomcat을 연동하는 과정에서 수업시간에 배웠던 내용�
 <br>
 <
 ## 2. Oracle WebLogic 다운로드 및 이용방법
-
+<img src="das.jpg"/><br>
+[Oracle Manual](https://docs.oracle.com/cd/E19159-01/820-4605/geojl/index.html)
 <iframe width="643" height="498" src="https://www.youtube.com/embed/RKCKTC27TAo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 <br>
 ## 3. Google Cloud Platform에서 VM 인스턴스 만들고 이용방법
-Apache-Tomcat 연동 <br>
+### Iaas, Paas,Saas 개념정리 
+Iaas(infrastructure as a Service):   물리적 자원 가상화 <br>
+Paas(Platform as a Service): 플랫폼 가상화(소프트웨어 작성) <br>
+SaaS(Software as a Service): 소프트웨어 가상화<br>
+<br>
+Google Cloud Platform에서 VM 인스턴스 만들고 Apache-Tomcat 연동 영상 <br>
 <iframe width="661" height="498" src="https://www.youtube.com/embed/Dm3EKJVTauA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<br>
 
 ## 4. 느낀점
 비전공자로서 처음에는 커맨드창에 익숙하지 않았지만 끊임없이 연동하는 과정에서 그 절차를 체득하게 되었습니다. <br>
