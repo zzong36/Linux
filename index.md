@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+# Linux<br>
 
-You can use the [editor on GitHub](https://github.com/zzong36/Linux/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## 1.Apache-Tomcat 연동하기
+<iframe width="662" height="498" src="https://www.youtube.com/embed/8DanEIglx8w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 2. Oracle WebLogic 다운로드 및 이용방법
+<iframe width="643" height="498" src="https://www.youtube.com/embed/RKCKTC27TAo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
 
-### Markdown
+## 3. Google Cloud Platform에서 VM 인스턴스 만들고 이용방법
+Apache-Tomcat 연동 <br>
+<iframe width="661" height="498" src="https://www.youtube.com/embed/Dm3EKJVTauA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## 4. 느낀점
+비전공자로서 처음에는 커맨드창에 익숙하지 않았지만 끊임없이 연동하는 과정에서 그 절차를 체득하게 되었습니다. <br>
+프로그램 운영에 대해 더 공부해 나가고 싶습니다. <br>
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zzong36/Linux/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
